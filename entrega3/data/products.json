@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "Producto modificado con update prueba",
+    "description": "modificación de producto",
+    "price": 5000,
+    "thumbnail": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "code": "AB125",
+    "stock": 600
+  },
+  {
+    "id": 3,
+    "title": "Producto5",
+    "description": "quinto producto",
+    "price": 12000,
+    "thumbnail": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "code": "AB127",
+    "stock": 1240
+  }
+]
